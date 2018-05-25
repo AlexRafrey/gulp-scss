@@ -1,0 +1,21 @@
+{
+  "name": "Alex",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Rafrey <34889996+AlexRafrey@users.noreply.github.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
